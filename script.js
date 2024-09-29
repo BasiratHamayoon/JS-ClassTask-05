@@ -9,8 +9,8 @@ function calculateAge() {
     var today = new Date();
     let years = today.getFullYear() - birthDate.getFullYear();
     let months = today.getMonth() - birthDate.getMonth();
-    let days = today.getDate() - birthDate.getDate();
-
-    
-
+    let days = today.getDate() - birthDate.getDate(); 
+    document.getElementById("year").textContent = years;
+    document.getElementById("month").textContent = months;
+    document.getElementById("day").textContent = days;
 }
