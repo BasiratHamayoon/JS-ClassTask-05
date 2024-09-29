@@ -9,5 +9,21 @@
     color: aliceblue;
 }
 .sub-container01 input{
-    
+    width: 200px;
+    height: 30px;
+    border-radius: 7px;
+    border: none;
+    padding: 5px;
+}
+.sub-container01 button{
+    width: 100px;
+    height: 35px;
+    padding: 5px;
+    border-radius: 7px;
+    border: none;
+    color: aliceblue;
+    background-color: rgb(23, 137, 23);
+}
+.sub-container01 button:hover{
+    background-color: rgb(21, 82, 21);
 }
