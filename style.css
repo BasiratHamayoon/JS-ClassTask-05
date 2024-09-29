@@ -1,0 +1,13 @@
+.container{
+    width: 350px;
+    height: 200px;
+    background-color: rgb(56, 118, 218);
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 30px;
+    color: aliceblue;
+}
+.sub-container01 input{
+    
+}
