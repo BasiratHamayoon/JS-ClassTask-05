@@ -1,13 +1,15 @@
 .container{
     width: 350px;
     height: 200px;
-    background-color: rgb(56, 118, 218);
+    background-color: rgb(93, 184, 221);
+    border-radius: 10px;
     margin: auto;
     margin-top: 100px;
     text-align: center;
     padding-top: 30px;
     color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 0px 7px black;
 }
 .sub-container01 input{
     width: 200px;
@@ -23,10 +25,10 @@
     border-radius: 7px;
     border: none;
     color: aliceblue;
-    background-color: rgb(23, 137, 23);
+    background-color: rgb(227, 86, 43);
 }
 .sub-container01 button:hover{
-    background-color: rgb(21, 82, 21);
+    background-color: rgb(154, 24, 14);
 }
 .sub-container02{
     width: 100%;
